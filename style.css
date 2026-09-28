@@ -501,3 +501,11 @@ footer p:last-child {
     align-items: center;
   }
 }
+.project-card h3 a,
+.project-card h3 a:visited,
+.project-card h3 a:hover,
+.project-card h3 a:active,
+.project-card h3 a:focus {
+  color: #ffffff;
+  text-decoration: none;
+}
